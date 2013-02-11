@@ -1,0 +1,7 @@
+<aegis>
+	<request policy="add">
+		<credential name="dsme::DeviceStateControl" />
+                <for path="system-ui::/usr/bin/sysuid" />
+	</request>
+</aegis>
+
